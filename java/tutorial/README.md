@@ -3,7 +3,7 @@
 [tutorialspoint](https://www.tutorialspoint.com/design_pattern)
 
 
-# Factory Pattern 
+# Factory Pattern
 
 [[source code]](https://github.com/zacscoding/DesignPatterns/tree/master/design-pattern-tutorial/src/factory)
 
@@ -69,6 +69,13 @@
 
 ---
 
+# Template
+;
 
+[[source code]](https://github.com/zacscoding/DesignPatterns/tree/master/design-pattern-tutorial/src/template)
 
+```template.*```
 
+![chain pattern](./pics/template.png)
+
+---
