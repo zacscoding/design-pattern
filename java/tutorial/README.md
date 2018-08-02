@@ -79,3 +79,17 @@
 ![chain pattern](./pics/template.png)
 
 ---
+
+# Observer  
+;
+
+[[source code]](https://github.com/zacscoding/DesignPatterns/tree/master/design-pattern-tutorial/src/observer)  
+
+```observer.*```
+
+![chain pattern](./pics/observer.png)  
+
+---
+
+
+
